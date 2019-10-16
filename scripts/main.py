@@ -110,5 +110,4 @@ for index in range(len(filtered_NBSS)):
 
 print('Completed: ', counter, 'missing: ', str(miss_counter), 'undefined hormone: ', undefined_hor_counter)
 
-print('Hello Basel Alyafi')
 
